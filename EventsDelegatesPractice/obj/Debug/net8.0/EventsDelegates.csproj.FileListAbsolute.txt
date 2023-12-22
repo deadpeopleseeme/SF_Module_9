@@ -1,0 +1,14 @@
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\bin\Debug\net8.0\EventsDelegates.exe
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\bin\Debug\net8.0\EventsDelegates.deps.json
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\bin\Debug\net8.0\EventsDelegates.runtimeconfig.json
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\bin\Debug\net8.0\EventsDelegates.dll
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\bin\Debug\net8.0\EventsDelegates.pdb
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.AssemblyInfoInputs.cache
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.AssemblyInfo.cs
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.csproj.CoreCompileInputs.cache
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.dll
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\refint\EventsDelegates.dll
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.pdb
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\EventsDelegates.genruntimeconfig.cache
+E:\Волянск мейнпапк\code\EventsDelegatesPractice\obj\Debug\net8.0\ref\EventsDelegates.dll

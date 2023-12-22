@@ -1,0 +1,14 @@
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\bin\Debug\net8.0\ExceptionsDelegatesPractice.exe
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\bin\Debug\net8.0\ExceptionsDelegatesPractice.deps.json
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\bin\Debug\net8.0\ExceptionsDelegatesPractice.runtimeconfig.json
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\bin\Debug\net8.0\ExceptionsDelegatesPractice.dll
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\bin\Debug\net8.0\ExceptionsDelegatesPractice.pdb
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.AssemblyInfoInputs.cache
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.AssemblyInfo.cs
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.csproj.CoreCompileInputs.cache
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.dll
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\refint\ExceptionsDelegatesPractice.dll
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.pdb
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ExceptionsDelegatesPractice.genruntimeconfig.cache
+E:\Волянск мейнпапк\code\ExceptionsDelegatesPractice\obj\Debug\net8.0\ref\ExceptionsDelegatesPractice.dll
